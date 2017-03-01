@@ -7,6 +7,7 @@
 - React
 - TypeScript
 - Webpack with Hot Module Replacement
+- Sass (Easily removable/replaceable)
 - Bootstrap 4 (Easily removable/replaceable)
 - Font-Awesome (Easily removable/replaceable)
 - Express (Easily removable/replaceable)
